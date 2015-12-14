@@ -1,0 +1,11 @@
+commit 494e68e928f40813454c3e2191761e628f1c33ad
+Author: diegoquintero <diego.quinterova@hotmail.com>
+Date:   Mon Dec 14 12:44:22 2015 -0500
+
+    se cambio el color del boton ingresar
+
+commit a2f37e5ef5155a9a114de3b9ec15fd65f4c4cc88
+Author: diegoquintero <diego.quinterova@hotmail.com>
+Date:   Mon Dec 14 12:41:44 2015 -0500
+
+    se modifico el html y css para centrar el login
